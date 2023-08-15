@@ -110,3 +110,6 @@ my-react-app/cypress/screenshots/solution.spec.js/The React app -- should click 
 automated-atomic-tests/cypress/screenshots/shopping-cart.spec.js/Shopping cart -- should add item to cart (failed).png
 tado-sec/.DS_Store
 tado-sec/my-react-app/package-lock.json
+
+testing-for-charity/my-react-app/package-lock.json
+package-lock.json
